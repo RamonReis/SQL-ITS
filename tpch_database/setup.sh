@@ -1,0 +1,1 @@
+#This setup loads the database with the tpc-h schemas and data

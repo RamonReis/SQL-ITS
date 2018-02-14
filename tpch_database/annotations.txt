@@ -1,0 +1,2 @@
+docker run -it --rm --user "$(id -u):$(id -g)" -v /etc/passwd:/etc/passwd:ro tpch-postgres
+
